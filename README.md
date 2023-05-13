@@ -14,3 +14,6 @@ and formats for humans too:
 
 - [PDF](https://raw.githubusercontent.com/reconSuave/battleb0t-threat-intel/main/reports/Battleb0t-report.pdf)
 - [HTML](https://raw.githubusercontent.com/reconSuave/battleb0t-threat-intel/main/reports/Battleb0t-report.html)
+
+
+DISCLAIMER: This is a raw intelligence report. It may contain errors or omissions, and its accuracy has not been independently verified. Please exercise prudence in your use of this information.
